@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+workforce_data/*.csv
+!workforce_data/manifest.json

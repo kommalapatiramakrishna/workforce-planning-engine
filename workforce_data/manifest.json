@@ -1,0 +1,29 @@
+{
+  "generator_seed": 20261022,
+  "row_counts": {
+    "roles": 8,
+    "skills": 300,
+    "employees": 5000,
+    "employee_skills": 17506,
+    "projects": 500,
+    "demand_plans": 19388,
+    "availability": 60000,
+    "allocations": 3826,
+    "training_catalog": 50,
+    "gap_analysis": 4532,
+    "ground_truth": 2
+  },
+  "sha256_checksums": {
+    "roles": "61ec05b763ed7f5dfdbabd79c28b57bf4926059f4bacbe25a99bacafac74dab0",
+    "skills": "5e96390c282b3c87ecc71e8440ab81a98649d06f5263c640f450e5c1b269ca5a",
+    "employees": "360f9ebb7b1b76000f65d5bd3bb0417c24c4d88cbbd850f5f45fc269cbe53075",
+    "employee_skills": "551e0160239879726cb71e6291a41e8c640f4495bd1f3ae3527bdf8ca8bde387",
+    "projects": "218f5e1bd95649e82f419d75dcaa5429ae29c04282ba20d9ecebbd9287462b82",
+    "demand_plans": "48de8e7a211e08776959a82a3585a5b3e502ee0a27b60f7ad5a04b7eadaca73e",
+    "availability": "e738afb59cc8d749cb9b2dd95d9b7876ec1ff8635b28661d6a2a7fd71b5c80c9",
+    "allocations": "3ac37e2b697dbff918fecf88d5f5a45b46af4ba6377018527aaa202563035c8c",
+    "training_catalog": "52fad376d4f28c06d91a64b76f8dc71e4e1c523f396c3c9f942645c891c6a748",
+    "gap_analysis": "3321afccab55fd6990ea0d7e1548fc4cd94d482fcd5e90ee7e45cdc6cfb11c2d",
+    "ground_truth": "b2e180f8a1412efdd7fdddc562892652c2202c4d567d3c3511eeffad347441f7"
+  }
+}
